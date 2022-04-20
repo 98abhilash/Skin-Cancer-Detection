@@ -1,6 +1,4 @@
 # Melanoma Skin Cancer Detection
-> Outline a brief description of your project.
-
 
 ## Table of Contents
 - [Melanoma Skin Cancer Detection](#melanoma-skin-cancer-detection)
